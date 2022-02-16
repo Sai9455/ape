@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Feb 2022 19:05:54 at https://mint-invisiblefriends-nft.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://mint-invisiblefriends-nft.com/ -O1 "C:\Mes Sites Web\inivisble" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:06:10	Error: 	"Not Found" (404) at link https://mint-invisiblefriends-nft.com/invisible-montage.gif (from https://mint-invisiblefriends-nft.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 15 links scanned, 13 files written (6907073 bytes overall) [4655082 bytes received at 290942 bytes/sec], 3260205 bytes transferred using HTTP compression in 10 files, ratio 30%
+(1 errors, 0 warnings, 0 messages)
